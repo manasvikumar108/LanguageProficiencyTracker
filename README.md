@@ -23,7 +23,6 @@ Deployed Link of backend: https://languageproficiencyfrontend.onrender.com/
 •	About Us Page
 
 ![image](https://github.com/user-attachments/assets/561d5430-1cf4-48cc-b5ec-23f2ff0f6d15)
-
 ![image](https://github.com/user-attachments/assets/23d7dc0b-5ab7-45a3-baae-d197e119f8eb)
 
 
@@ -32,11 +31,7 @@ Deployed Link of backend: https://languageproficiencyfrontend.onrender.com/
 •	Levels Selection Page
 
 ![image](https://github.com/user-attachments/assets/d354d995-9ffc-46bc-8d73-fccd63e8dbba)
-
-
 ![image](https://github.com/user-attachments/assets/5611cf6d-1c24-4653-a6a7-7a4d7b2f28a7)
-
-
 ![image](https://github.com/user-attachments/assets/e0f5ffd1-6e0f-449b-ab25-d045a35e38dc)
 
 
