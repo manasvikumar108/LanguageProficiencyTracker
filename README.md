@@ -22,9 +22,10 @@ Deployed Link of backend: https://languageproficiencyfrontend.onrender.com/
 
 •	About Us Page
 
-![image](https://github.com/user-attachments/assets/6828f1e1-2f43-4c46-8ac0-827c1ec60720)
-![image](https://github.com/user-attachments/assets/9c9f6069-9c34-46b2-b18a-f2c8987faee8)
-![image](https://github.com/user-attachments/assets/1d7f0cd9-f6ca-41bb-addd-a048260ae9d2)
+![image](https://github.com/user-attachments/assets/322248db-a421-4b8b-b971-7ef100096f36)
+![image](https://github.com/user-attachments/assets/a75c5f5e-34d7-47e4-9e7f-22fbd2af7fa9)
+
+
 
 
 
